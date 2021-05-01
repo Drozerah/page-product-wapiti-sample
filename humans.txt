@@ -1,0 +1,15 @@
+/* TEAM */
+
+Developer: Thomas G. aka Drozerah
+                            
+GitHub: https://github.com/Drozerah
+                         
+Location: France
+                                        
+/* APP */
+                           
+Last update: 2021/04/07
+                            
+Standards: HTML5 - CSS3 - SCSS - JavaScript - Vue.js
+                            
+Software: VScode, git
